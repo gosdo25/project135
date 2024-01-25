@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+}
+body{
+    background-size:cover;
+
+}
+#start,#nobjects,#status{
+    font-size:18px;
+}
+.footer{
+   bottom: 0;
+    width:100%;
+    font-size:18px;
+    background-color:lightsalmon;
+    color:white;
+    position:fixed;
+    line-height: 2;
+}
+canvas{
+    border:2px solid white;
+    border-radius:10px;
+    margin-top:100px;
+    box-shadow:5px 5px 5px peachpuff;
+}
